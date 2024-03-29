@@ -1,0 +1,56 @@
+Title:  Linux System Programming: Talking Directly to the Kernel and C Library 
+Publisher: O'Reilly Media
+ISBN-10: 1449339530 
+ISBN-13: 978-1449339531
+Number Of Copies: 3
+Edition : 2
+Year : 2013 
+Month : 1
+Language  :  English
+Paperback  : 456 pages
+
+Title:  C Programming Language 
+Publisher: Pearsonon
+ISBN-10: 0131103628 
+ISBN-13: 978-0131103627
+Number Of Copies: 1
+Year : 1988
+Month : 3
+Paperback  :  272 pages
+
+Title:  Microprocessor Systems Design: 68000 Family Hardware, Software, and Interfacing 
+Publisher: CL-Engineering
+ISBN-10: 9780534948221 
+ISBN-13: 978-0534948221
+Number Of Copies: 1
+ASIN  :  0534948227
+Language  :  English
+Hardcover : 992 pages
+
+Title:  Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V architectures and the design of smartphones, PCs, and cloud servers 
+Publisher: Packt Publishing
+ISBN-10: 1803234512 
+ISBN-13: 978-1803234519
+Number Of Copies: 1
+Language  :  English
+Year : 2022
+Month : 5
+Paperback  :  666 pages
+
+Title:  Introductory Circuit Analysis 
+Publisher: Pearsonn
+ISBN-10: 9780133923605 
+ISBN-13: 978-0133923605
+Number Of Copies: 1
+ASIN  : 0133923606
+Edition : 10
+Language  :  English
+Hardcover  :  1216 pages
+Item Weight  :  5.34 pounds
+
+Title:  Linux Lap 
+Publisher: Dr.Aziz
+ISBN-10: 123123123 
+ISBN-13: 123-123213
+Number Of Copies: 3
+
